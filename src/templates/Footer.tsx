@@ -12,7 +12,6 @@ const Footer = () => (
         logo={<Logo />}
         iconList={
           <>
-          
             <Link href="https://www.instagram.com/pedritos_tacos?igsh=a2h0Z3N1dnAwZmZo">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
